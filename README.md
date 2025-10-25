@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonpham1602" alt="sonpham1602" /></a> </p>
-
 - 🔭 I’m currently working on **KingFoodMart**
 
 - 📄 My Resume [Link](https://drive.google.com/file/d/1PqSD7OWRWycF99hCEgV7EVEF9mIfDfDR/view)
