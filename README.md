@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on **KingFoodMart**
-
-- 📄 My Resume [Link](https://drive.google.com/file/d/1PqSD7OWRWycF99hCEgV7EVEF9mIfDfDR/view)
-
 - 📫 How to reach me **phamngocsonl13.cla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
